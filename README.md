@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/thinhnguyen2026](https://github.com/thinhnguyen2026)
 
-- 💬 Ask me about **Python, Excel, C++**
+- 💬 Ask me about **Python, R, SQL(mySQL), Power BI, and Excel**
 
 - 📫 How to reach me **ngducthinh0501@gmail.com**
 
