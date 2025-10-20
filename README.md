@@ -7,9 +7,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thinhnguyen2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thinhnguyen2004/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/thinhhnguyen0501/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/thinhhnguyen0501/" height="30" width="40" /></a>
-<a href="https://sites.google.com/depauw.edu/thinhnguyen-depauw?usp=sharing" target="blank" title="Portfolio">🌐 Portfolio</a>
+  <!-- Replaced images with shields.io badges -->
+  <a href="https://www.linkedin.com/in/thinhnguyen2004/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
+  </a>
+  <a href="https://www.facebook.com/thinhhnguyen0501/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28" />
+  </a>
+  <a href="https://sites.google.com/depauw.edu/thinhnguyen-depauw?usp=sharing" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" height="28" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
