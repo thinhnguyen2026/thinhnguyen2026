@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinh Nguyen</h1>
-<h3 align="center">I am actively looking for a full-time position in Business Data Analytics/Data Science/Data Engineer</h3>
+<h3 align="center">I am actively interested in Business Data Analytics/Data Science/Data Engineer projects</h3>
 
 - 🌱 I have experience working with **SQL, Python, Excel, and Power BI**
 
