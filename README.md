@@ -1,79 +1,44 @@
-<h1 align="center">Hi 👋, I'm Thinh Nguyen</h1>
-<h3 align="center">I am actively interested in Business Data Analytics/Data Science/Data Engineer projects</h3>
+<img src="assets/research-banner.svg" width="100%" alt="Thinh Nguyen — PhD student in Data Science, Rowan University. Autonomous pipelines, drones, robotics and Agentic AI." />
 
-- 🌱 I have experience working with **SQL, Python, Excel, and Power BI**
-
-- 📫 How to reach me **ngducthinh0501@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Replaced images with shields.io badges -->
-  <a href="https://www.linkedin.com/in/thinhnguyen2004/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
-  </a>
-  <a href="https://www.facebook.com/thinhhnguyen0501/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="28" />
-  </a>
-  <a href="https://sites.google.com/depauw.edu/thinhnguyen-depauw?usp=sharing" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" height="28" />
-  </a>
+<p align="center">
+<a href="https://orcid.org/0009-0001-8537-4452">ORCID</a> · <a href="https://www.linkedin.com/in/thinhnguyen2004/">LinkedIn</a> · <a href="mailto:ngducthinh0501@gmail.com">Email</a> · <a href="PROJECTS.md">Project directory</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Excel (advanced) -->
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="28" />
-  </a>
+## About
 
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" height="28" />
-  </a>
+I'm **Thinh Nguyen**, a **PhD student in Data Science at Rowan University**. My research focuses on **autonomous pipelines for drones and robots, and Agentic AI**.
 
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" height="28" />
-  </a>
+I'm interested in how data, models and agents can work together across the full autonomy workflow—from observations and perception to planning, execution and evaluation. My earlier projects span applied machine learning, population health research and analytics.
 
-  <!-- Python (pandas, scikit-learn) -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="28" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="28" />
-  </a>
+## Research direction
 
-  <!-- Stata (no official logo in shields.io, use plain badge) -->
-  <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Stata-0066CC?style=for-the-badge&logo=stata&logoColor=white" alt="Stata" height="28" />
-  </a>
+| Area | Questions guiding my work |
+| :--- | :--- |
+| **Autonomous pipelines** | How can sensing, data processing, decision-making and execution form a reproducible workflow? |
+| **Drones & robotics** | How can autonomous systems turn observations into useful actions in physical environments? |
+| **Agentic AI** | How can agents coordinate tools and tasks, with clear evaluation and human oversight? |
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28" />
-  </a>
+These are my current research interests. The public projects below show the data science and engineering foundations I am building on.
 
-  <!-- EndNote (no official logo in shields.io, use plain badge) -->
-  <a href="https://endnote.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/EndNote-1C75BC?style=for-the-badge&logo=endnote&logoColor=white" alt="EndNote" height="28" />
-  </a>
+## Selected public work
 
-  <!-- Linux -->
-  <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="28" />
-  </a>
+| Project | Focus | What to explore |
+| :--- | :--- | :--- |
+| **[FlightOps ML](https://github.com/thinhnguyen2026/flightops-ml)** | ML pipelines · In development | Flight-delay data ingestion, quality checks, provenance and chronological dataset splits. |
+| **[Birth Outcomes Research](https://github.com/thinhnguyen2026/RESEARCH_BIRTH_OUTCOMES)** | Population health · Research | Analysis of 9M+ NCHS birth records, feature engineering and interpretable classification models. |
+| **[Keeneland Auction Analysis](https://github.com/thinhnguyen2026/Keeneland-September-Yearling-Auction-Price-Predictive-Model-and-Buyer-Segmentation-Analysis)** | Predictive modeling | Auction-price prediction and buyer segmentation using 2020–2024 data. |
+| **[Churn Prediction Dashboard](https://github.com/thinhnguyen2026/Churn-Predict-Dashboard)** | Applied ML · Explainability | A Streamlit application for customer churn prediction and model explanations. |
 
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="28" />
-  </a>
+**Browse by theme:** [Research & ML systems](PROJECTS.md#research--ml-systems) · [Applied data science](PROJECTS.md#applied-data-science) · [Foundations & coursework](PROJECTS.md#foundations--coursework)
 
-  <!-- TensorFlow (you previously wrote 'SenserFlow' — using TensorFlow here) -->
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="28" />
-  </a>
-</p>
+## Methods & tools
+
+**Data & modeling:** Python · SQL · pandas · scikit-learn · PyTorch · TensorFlow  
+**Research workflow:** Jupyter · Git · Linux · reproducible analysis  
+**Visualization & analytics:** Matplotlib · Power BI · Tableau · Excel
+
+## Connect
+
+I'm interested in exchanging ideas about autonomous systems, robotics, Agentic AI and reproducible machine learning.
+
+[Email](mailto:ngducthinh0501@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thinhnguyen2004/) · [ORCID](https://orcid.org/0009-0001-8537-4452)
