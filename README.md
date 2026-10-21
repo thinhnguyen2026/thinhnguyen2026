@@ -33,8 +33,8 @@ These are my current research interests. The public projects below show the data
 
 ## Methods & tools
 
-**Data & modeling:** Python · SQL · pandas · scikit-learn · PyTorch · TensorFlow  
-**Research workflow:** Jupyter · Git · Linux · reproducible analysis  
+**Data & modeling:** Python · SQL · pandas · scikit-learn · PyTorch · TensorFlow<br>
+**Research workflow:** Jupyter · Git · Linux · reproducible analysis<br>
 **Visualization & analytics:** Matplotlib · Power BI · Tableau · Excel
 
 ## Connect
